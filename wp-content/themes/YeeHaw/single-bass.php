@@ -9,7 +9,7 @@
 
 get_header(); ?>
 
-	<div id="primary" class="content-area" style="background: #0CA5B0">
+	<div id="primary" class="content-area bass">
 		<div id="content" class="site-content" role="main">
 			<?php
 				// Start the Loop.

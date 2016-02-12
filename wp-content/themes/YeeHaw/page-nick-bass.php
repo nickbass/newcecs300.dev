@@ -13,7 +13,7 @@
 
 get_header(); ?>
 
-<div id="main-content" style="background-color: green "class="main-content">
+<div id="main-content" class="main-content nickbass">
 
 <?php
 	if ( is_front_page() && twentyfourteen_has_featured_posts() ) {
@@ -23,7 +23,7 @@ get_header(); ?>
 ?>
 	<div id="primary" class="content-area">
 		<div id="content" class="site-content" role="main">
-
+            
 			<?php
 				// Start the Loop.
 				while ( have_posts() ) : the_post();

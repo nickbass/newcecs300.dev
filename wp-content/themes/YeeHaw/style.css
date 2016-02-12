@@ -12,3 +12,18 @@
  /* == Add your own styles below this line ==
 --------------------------------------------*/
 
+.customstyle { background-color: black;}
+
+.customtemplate {background-repeat: round ;
+                 background-image: url(https://s-media-cache-ak0.pinimg.com/564x/ef/19/12/ef19126067c980d807f2234f525a0f41.jpg);}  
+
+.contributors { background-color: yellow;}
+
+.bass {background-color: #0CA5B0;}
+
+.nickbass {background-image: url(https://s-media-cache-ak0.pinimg.com/564x/ef/19/12/ef19126067c980d807f2234f525a0f41.jpg);}
+
+#shakeandbake {position: fixed;
+               float: inherit;
+               height: 200px;
+               width: auto; }
